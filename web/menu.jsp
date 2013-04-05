@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <div class="masthead">
-    <h3 class="muted">MyMall</h3>
+    <h3 class="muted"><a href="/">MyMall</a></h3>
     <div class="navbar">
         <div class="navbar-inner">
             <div class="container">
